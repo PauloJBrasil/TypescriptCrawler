@@ -24,3 +24,9 @@ Caso esteja usando NPM:
 Caso esteja usando YARN:
 
     yarn dev
+
+Obs: O projeto precisará da criação de um arquivo, na raiz do projeto, '.env' para o envio dos dados do usuário.
+
+A linha que deve ser inserida no arquivo '.env':
+
+    BASE_URL=http://extratoblubeapp-env.eba-mvegshhd.sa-east-1.elasticbeanstalk.com
